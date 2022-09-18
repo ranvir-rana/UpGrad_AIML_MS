@@ -1,0 +1,117 @@
+NLP
+-----------------------
+
+
+
+
+Comparative Question Answering System based on Natural Language Processing and Machine Learning
+https://ieeexplore.ieee.org/document/9396015
+
+https://www.tensorflow.org/datasets/catalog/squad
+
+
+
+
+
+
+------------------
+
+https://nirantk.com/awesome-project-ideas/
+Sentence to Sentence semantic similarity
+Can you identify question pairs that have the same intent or meaning?
+Dataset: Quora question pairs with similar questions marked
+
+Quora Question Pairs
+
+https://www.kaggle.com/datasets/quora/question-pairs-dataset
+
+https://arxiv.org/abs/1907.01041
+
+Fight online abuse
+Can you confidently and accurately tell whether a particular comment is abusive?
+Dataset: Toxic comments on Kaggle
+https://paperswithcode.com/paper/from-hero-to-z-eroe-a-benchmark-of-low-level
+https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge
+
+https://www.researchgate.net/publication/334123568_Toxic_Comment_Classification
+
+
+Autonomous Tagging of StackOverflow Questions
+
+Make a multi-label classification system that automatically assigns tags for questions posted on a forum such as StackOverflow or Quora.
+
+https://www.kaggle.com/datasets/stackoverflow/stacklite
+https://www.kaggle.com/datasets/stackoverflow/stacksample
+
+
+Can computer vision spot distracted drivers?
+Dataset: State Farm Distracted Driver Detection on Kaggle
+
+https://www.kaggle.com/datasets/rightway11/state-farm-distracted-driver-detection
+
+
+
+
+Bone X-Ray competition
+Can you identify if a hand is broken from a X-ray radiographs automatically with better than human performance?
+Stanford’s Bone XRay Deep Learning Competition with MURA Dataset
+
+https://stanfordmlgroup.github.io/competitions/mura/
+
+
+===============================
+
+
+
+Classification and Detection of Malaria Cell Using Computer Vision & Deep Learning 
+
+https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
+https://www.researchgate.net/publication/349105266_Classification_of_Malaria_Cell_Images_with_Deep_Learning_Architectures
+
+Pedestrian Detection: Unification of Global and Local Features
+
+ INRIA (Dalal & Triggs, 2005), Caltech
+(Dollar, Wojek, Schiele, & Perona, 2012), TUD-Brussels (Wojek,
+Walk, & Schiele, 2009) Daimler-Pedestrian Detection (Munder &
+Gavrila, 2006), ETH (Ess, Leibe, & Van Gool, 2007). 
+
+https://reader.elsevier.com/reader/sd/pii/S092523121830290X?token=1A244A5897C34F250E327B43A0CDA320277C0E555CF4612B3BD44C7C5B8CBB0B4601D49B84F5A3978C19A351D9360B1C&originRegion=eu-west-1&originCreation=20220917195934
+
+
+
+======================
+
+Text Summarization Using Natural Language Processing
+
+AutoBots - Bots that can analyze your sentiments and deliver appropriate human-Like replys to their users.
+AutoBot - Build a system that can have a conversation with you. The user types messages, and your system replies based on the user's text. Many approaches here ... you could use a large twitter corpus and do language similarity
+
+
+
+Student Essay Scoring System
+
+
+
+
+https://github.com/manojkumar-github/NLP-TextAnalytics-DeepLearning/tree/master/EssayScoringSystem
+https://www.kaggle.com/c/asap-aes/data
+https://www.kaggle.com/c/asap-aes#description
+
+https://peerj.com/articles/cs-208.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
